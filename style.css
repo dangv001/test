@@ -1,0 +1,87 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+.main-header {
+    font-size: 50px;
+    color: red;
+}
+
+.main-sub {
+    font-size: 30px;
+}
+
+.bear-1 {
+    border-radius: 50px;
+    width: 400px;
+    height: auto;
+}
+
+.btns button {
+    width: 150px;
+    height: 75px;
+    border: none;
+    border-radius: 75px;
+    background-color: red;
+    font-size: 25px;
+    
+}
+
+.btns button:hover{
+    background-color: pink;
+    transition: 0.5s;
+}
+
+.main-header2 {
+    padding-top: 150px;
+}
+
+.main-body2 {
+    background-image: url(roses.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.img-blue-bear {
+    border-radius: 175px;
+}
+
+.all-btns{
+    padding-right: 150px;
+    padding-top: 35px;
+}
+
+.all-btns button {
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 25px;
+    background-color: pink;
+    border: none;
+}
+
+.run {
+    position: absolute;
+}
+
+.main-header1 {
+    font-size: 40px;
+}
+
+.heart-background {
+background-color: pink;
+text-align: center;
+}
+
+.bear-yes {
+    height: 350px;
+    width: 350px;
+    border-radius: 50px;
+}
+
+.last-page {
+    padding-top: 125px;
+    color: red;
+}
